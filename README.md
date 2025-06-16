@@ -23,8 +23,8 @@ Predict CO2 for the given input [3300, 1300].
 
 ## Program:
 ```
-Developed by: RAHUL S 
-REG.NO:212224040259
+Developed by: KESAVAN S 
+REG.NO:212224230121
 
 import pandas as pd
 from sklearn import linear_model
